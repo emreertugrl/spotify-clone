@@ -27,7 +27,7 @@ To develop this project, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/emreertugrul7/spotify-clone.git
+   git clone https://github.com/emreertugrl/spotify-clone.git
 
    ```
 
@@ -46,7 +46,7 @@ To develop this project, follow these steps:
 
 ## Live Demo
 
-<a href="https://menua">Netlify Project View</a>
+<a href="https://clonespotifyappp.netlify.app/">Netlify Project View</a>
 
 ## API'ler
 
